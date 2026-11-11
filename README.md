@@ -127,6 +127,10 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
 
 **AI & ML**
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork preserves the <a href="https://github.com/vinta/awesome-python">upstream project</a>’s category-based guide to Python libraries, frameworks and development resources. Developers can locate established tools for data processing, testing, storage and scientific work before creating parallel implementations. The practical contribution is discoverability and reuse across the Python ecosystem; the directory itself does not establish comparative performance for the listed packages.</sub>
+<!-- impact-note:end -->
+
 ## AI and Agents
 
 _Libraries for building AI applications, LLM integrations, and autonomous agents._
